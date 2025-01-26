@@ -1,7 +1,8 @@
 # :wave: Hey There !! I'm Shravan Jindal.
 - 🔭 I am currently a third year CSE undergraduate at IIT Ropar. 
-- 🌱: I am interested in Machine Learning, Robotics and fields like AR/VR, Game development. 
-- 💻: I am proficient in Python, C, C++, Unity, HTML, CSS, and C#.
+- 🌱: I am interested in building Agentic-RAG based Applications (PS : 2025 will be full of ai agents). 
+- 💻: I am proficient in Python, C, C++, HTML, CSS, and Javascript.
+- 💻: I have worked with following frameworks : NextJS, ReactJS, ExpressJS, Scikit-Learn, Tensorflow and LangChain.
 - ✨: Looking forward to collaborating on some amazing projects
 - 🤝: Let's get in touch
 <br><br><a href="https://www.linkedin.com/in/shravan-jindal-23068327a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
