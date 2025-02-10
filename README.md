@@ -33,6 +33,8 @@
   </tr>
 </table>
 
+**Note:** Jupyter Notebooks are not included to provide a more accurate view of language usage.
+
 ## 🌐 Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/shravan-jindal-23068327a/" target="_blank" rel="noopener noreferrer"> 
@@ -50,3 +52,4 @@
 - 🏆 Always up for a Hackathon or a coding challenge!
 
 **Let's build something amazing together! 🚀**
+
