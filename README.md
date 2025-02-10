@@ -20,7 +20,6 @@
 - 🤖 **AI Agents & RAG**: Developing intelligent AI-driven chatbots and automation tools.
 - 🌎 **Web Development**: Crafting high-performance full-stack web applications.
 - 📊 **Data Science**: Analyzing and visualizing complex datasets to derive insights.
-- 🎮 **Game Development**: Experimenting with Unity and AI-driven game logic.
 - 🔥 **Open Source**: Actively contributing to AI and ML repositories.
 
 ## 📈 Github Stats & Achievements
