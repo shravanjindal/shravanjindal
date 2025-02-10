@@ -1,27 +1,55 @@
 # :wave: Hey There !! I'm Shravan Jindal.
-- 🔭 I am currently a third year CSE undergraduate at IIT Ropar. 
-- 🌱: I am interested in building Agentic-RAG based Applications (PS : 2025 will be full of ai agents). 
-- 💻: I am proficient in Python, C, C++, HTML, CSS, and Javascript.
-- 💻: I have worked with following frameworks : NextJS, ReactJS, ExpressJS, Scikit-Learn, Tensorflow and LangChain.
-- ✨: Looking forward to collaborating on some amazing projects
-- 🤝: Let's get in touch
-<br><br><a href="https://www.linkedin.com/in/shravan-jindal-23068327a/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-<a href="mailto:2022csb1124@iitrpr.ac.in"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
-<h3>Languages and Tools:</h4><hr>
-<p> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="c#" width="100" height="40"/> </a> 
-<a href="https://mne.tools/stable/index.html" target="_blank"> <img src="https://mne.tools/stable/_images/mne_logo.svg" alt="c#" width="40" height="40"/> </a> 
+## 🚀 About Me
+- 🔭 I am currently a third-year CSE undergraduate at IIT Ropar.
+- 🌱 I am passionate about building **Agentic-RAG-based Applications** (PS: 2025 will be full of AI agents! 🤖).
+- 💡 I love exploring cutting-edge AI technologies, full-stack development, and optimizing ML models.
+- 🎯 My goal is to contribute to open-source AI and work on innovative AI-driven projects.
+- ✨ Looking forward to collaborating on some amazing projects.
+- 🤝 Let's **connect and innovate together!**
 
-# 🏆 My Github Stats:
+## 🛠️ Tech Stack
+- **Languages**: Python, C, C++, JavaScript, HTML, CSS.
+- **Frameworks & Libraries**: Next.js, React.js, Express.js, Scikit-Learn, pyTorch, TensorFlow, LangChain.
+- **Databases**: MySQL, MongoDB, PostgreSQL.
+- **Tools & Platforms**: Docker, Git, Kubernetes, VS Code, Linux.
+- **AI/ML**: LangChain, Hugging Face, OpenAI API, PyTorch.
+- **Cloud Services**: AWS, Firebase.
 
+## 🎯 Projects & Interests
+- 🤖 **AI Agents & RAG**: Developing intelligent AI-driven chatbots and automation tools.
+- 🌎 **Web Development**: Crafting high-performance full-stack web applications.
+- 📊 **Data Science**: Analyzing and visualizing complex datasets to derive insights.
+- 🔥 **Open Source**: Actively contributing to AI and ML repositories.
+
+## 📈 Github Stats & Achievements
 <table align='center'>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=shravanjindal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="..." />
+   <td><img src="https://github-readme-stats.vercel.app/api?username=shravanjindal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" /></td>
+  </tr>
+  <tr>
+   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanjindal&theme=highcontrast" alt="GitHub Streak" /></td>
+  </tr>
+  <tr>
+   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanjindal&layout=compact&theme=highcontrast" alt="Top Languages" /></td>
   </tr>
 </table>
+
+## 🌐 Connect With Me
+<p>
+<a href="https://www.linkedin.com/in/shravan-jindal-23068327a/" target="_blank" rel="noopener noreferrer"> 
+  <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px">
+</a>
+<a href="mailto:2022csb1124@iitrpr.ac.in"> 
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px">
+</a>
+</p>
+
+## 🏅 Fun Facts
+- 🎵 I enjoy coding while listening to Lo-Fi beats.
+- 📚 Currently reading about **AGI & Reinforcement Learning**.
+- 🌍 Love traveling and exploring new cultures.
+- 🏆 Always up for a Hackathon or a coding challenge!
+
+**Let's build something amazing together! 🚀**
+
