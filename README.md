@@ -10,28 +10,27 @@
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, C, C++, JavaScript, HTML, CSS.
-- **Frameworks & Libraries**: Next.js, React.js, Express.js, Scikit-Learn, pyTorch, TensorFlow, LangChain.
+- **Frameworks & Libraries**: Next.js, React.js, Express.js, Scikit-Learn, TensorFlow, LangChain.
 - **Databases**: MySQL, MongoDB, PostgreSQL.
 - **Tools & Platforms**: Docker, Git, Kubernetes, VS Code, Linux.
 - **AI/ML**: LangChain, Hugging Face, OpenAI API, PyTorch.
-- **Cloud Services**: AWS, Firebase.
+- **Cloud Services**: AWS, Firebase, Vercel.
 
 ## 🎯 Projects & Interests
 - 🤖 **AI Agents & RAG**: Developing intelligent AI-driven chatbots and automation tools.
 - 🌎 **Web Development**: Crafting high-performance full-stack web applications.
 - 📊 **Data Science**: Analyzing and visualizing complex datasets to derive insights.
+- 🎮 **Game Development**: Experimenting with Unity and AI-driven game logic.
 - 🔥 **Open Source**: Actively contributing to AI and ML repositories.
 
 ## 📈 Github Stats & Achievements
 <table align='center'>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=shravanjindal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shravanjindal&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanjindal&theme=highcontrast" alt="GitHub Streak" /></td>
   </tr>
   <tr>
-   <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanjindal&theme=highcontrast" alt="GitHub Streak" /></td>
-  </tr>
-  <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanjindal&layout=compact&theme=highcontrast" alt="Top Languages" /></td>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanjindal&layout=compact&theme=highcontrast&hide=Jupyter%20Notebook" alt="Top Languages" /></td>
   </tr>
 </table>
 
@@ -52,4 +51,3 @@
 - 🏆 Always up for a Hackathon or a coding challenge!
 
 **Let's build something amazing together! 🚀**
-
