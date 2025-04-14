@@ -1,6 +1,6 @@
 # :wave: Hey There !! I'm Shravan Jindal.
 
-<a href="https://shravansportfolio.netlify.app/"><b>Portfolio</b></a>
+<p>Explore my <a href="https://shravansportfolio.netlify.app/"><strong>Portfolio</strong></a> – now featuring a smart AI bot!</p>
 ## 🚀 About Me
 - 🔭 I am currently a third-year CSE undergraduate at IIT Ropar.
 - 🌱 I am passionate about building **Agentic-RAG-based Applications** (PS: 2025 will be full of AI agents! 🤖).
