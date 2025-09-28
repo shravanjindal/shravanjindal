@@ -11,12 +11,12 @@
 - 🤝 Let's **connect and innovate together!**
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C, C++, JavaScript, HTML, CSS.
-- **Frameworks & Libraries**: Next.js, React.js, Express.js, Scikit-Learn, TensorFlow, LangChain.
-- **Databases**: MySQL, MongoDB, PostgreSQL.
-- **Tools & Platforms**: Docker, Git, Kubernetes, VS Code, Linux.
+- **Languages**: Javascript/Typescript, JAVA, Python, C++.
+- **Frameworks & Libraries**: Next.js, React.js, Express.js, Scikit-Learn, TensorFlow, LangChain, LangGraph.
+- **Databases**: MySQL, MongoDB, PostgreSQL, ObjectBox.
+- **Tools & Platforms**: Docker, Git, Kubernetes, VS Code, Linux, Grafana, LangSmith.
 - **AI/ML**: LangChain, Hugging Face, OpenAI API, PyTorch.
-- **Cloud Services**: AWS, Firebase, Vercel.
+- **Cloud Services**: DigitalOcean, Vercel.
 
 ## 🎯 Projects & Interests
 - 🤖 **AI Agents & RAG**: Developing intelligent AI-driven chatbots and automation tools.
